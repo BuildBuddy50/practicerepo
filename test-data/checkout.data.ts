@@ -22,3 +22,5 @@ export const products = {
   first: 'PLACEHOLDER_PRODUCT_NAME_1',
   second: 'PLACEHOLDER_PRODUCT_NAME_2',
 };
+
+// commented line
